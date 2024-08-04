@@ -191,7 +191,7 @@
     "home": {
       "sections": [
         {
-          "apiMethod": "get_videos",
+          "api_method": "get_videos",
           "params": {
             "{id}": "1",
             "{page}": "1",
@@ -199,7 +199,7 @@
           }
         },
         {
-          "apiMethod": "get_videos",
+          "api_method": "get_videos",
           "params": {
             "{id}": "2",
             "{page}": "1",
@@ -207,7 +207,7 @@
           }
         },
         {
-          "apiMethod": "get_videos",
+          "api_method": "get_videos",
           "params": {
             "{id}": "3",
             "{page}": "1",
@@ -215,7 +215,7 @@
           }
         },
         {
-          "apiMethod": "get_videos",
+          "api_method": "get_videos",
           "params": {
             "{id}": "4",
             "{page}": "1",
@@ -227,7 +227,7 @@
     "list": {
       "sections": [
         {
-          "apiMethod": "get_videos",
+          "api_method": "get_videos",
           "params": null
         }
       ]
@@ -235,7 +235,7 @@
     "search": {
       "sections": [
         {
-          "apiMethod": "search",
+          "api_method": "search",
           "params": null
         }
       ]
@@ -243,7 +243,7 @@
     "video_details": {
       "sections": [
         {
-          "apiMethod": "get_video_details",
+          "api_method": "get_video_details",
           "params": null
         }
       ]
@@ -251,7 +251,7 @@
     "episode_details": {
       "sections": [
         {
-          "apiMethod": "get_episode_details",
+          "api_method": "get_episode_details",
           "params": null
         }
       ]
